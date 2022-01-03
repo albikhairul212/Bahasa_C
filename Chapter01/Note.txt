@@ -1,0 +1,4 @@
+                    Hello World
+
+pada chapter 1 ini 
+berfungsi sebagai penggenalan bahasa c bagi pemula.
