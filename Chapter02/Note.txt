@@ -1,18 +1,6 @@
-chp 2
+			=== PENGENALAN BAHASA C ===
+				MODUL 1
 
-    didalam chapter ini akan membahas apa saja yang diperlukan dalam output dan input dalam bahasa c
-
-
-Input:
-1.scanf()
-2.gets()
-3.fgets()
-4.
-5.
-
-Output:
-1.printf()
-2.puts()
-3.
-4.
-5.
+ 
+--> Menjelaskan File Header
+--> INPUT & OUTPUT
