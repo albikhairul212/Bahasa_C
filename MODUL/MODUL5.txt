@@ -1,0 +1,13 @@
+FILE TEKS DAN FILE BINARI
+
+A) FILE TEKS
+	a. Pendahluan-> file teks merupakan yang isinya itu berupa huruf,simbol,dan angka.
+	b. Mode yang ada dalam File Teks
+	c. Fungsi baca: fgetc, fgets, fscanf
+	d. Fungsi tulis: fputc, fputs, fprintf
+
+B) FILE BINARI
+	a. Pendahluan-> file teks merupakan yang isinya itu berupa bilangan biner yaitu 0 dan 1 tetapi di dalam file binari kita tidak bisa melihatnya secara langsung, file ini biasanya berektensi .bin ataupun .exe.
+	b. Mode yang ada dalam File binary
+	c. fungsi baca: fread
+	d. Fungsi tulis: fwrite
