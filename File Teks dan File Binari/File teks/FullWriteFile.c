@@ -11,10 +11,21 @@ int main(){
     printf("Input baris yang ingin anda tulis: ");
     scanf("%d", &baris);
     getchar();
+    // // Memakai perulangan untuk menulis file sebanyak baris yang di-input
+    // for(int i = 0; i < baris; i++){
+    //     printf("Isi dari baris ke %d: ",i + 1);
+    //     fgets(bufferedwriter,sizeof(bufferedwriter),stdin);
+    //     fputs(bufferedwriter,fptw);
+    // }
+
     // Memakai perulangan untuk menulis file sebanyak baris yang di-input
     for(int i = 0; i < baris; i++){
         printf("Isi dari baris ke %d: ",i + 1);
         fgets(bufferedwriter,sizeof(bufferedwriter),stdin);
-        fputs(bufferedwriter,fptw);
+        fputc(bufferedwriter[0] + EOF ,fptw); // Setiap baris hanya mengisi index pertama
+        // fputc(EOF,fptw);
     }
+    fclose(fptw);
+
+    return 0;
 }

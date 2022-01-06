@@ -3,11 +3,22 @@ FILE TEKS DAN FILE BINARI
 A) FILE TEKS
 	a. Pendahluan-> file teks merupakan yang isinya itu berupa huruf,simbol,dan angka.
 	b. Mode yang ada dalam File Teks
-	c. Fungsi baca: fgetc, fgets, fscanf
-	d. Fungsi tulis: fputc, fputs, fprintf
+	c. Perbandingan Mode 
+	d. Fungsi baca: fgetc, fgets, fscanf
+	e. Fungsi tulis: fputc, fputs, fprintf
+
 
 B) FILE BINARI
 	a. Pendahluan-> file teks merupakan yang isinya itu berupa bilangan biner yaitu 0 dan 1 tetapi di dalam file binari kita tidak bisa melihatnya secara langsung, file ini biasanya berektensi .bin ataupun .exe.
 	b. Mode yang ada dalam File binary
-	c. fungsi baca: fread
-	d. Fungsi tulis: fwrite
+	c. Perbandingan Mode
+	d. fungsi baca: fread
+	e. Fungsi tulis: fwrite
+
+C) Perbandingan antara file teks dan file binari 
+	Membuat tabel perbandingan antara kedua file ini ^_^
+
+D) LATIHAN
+	1. Tuliskan nama dan nim kalian di dalam file biodata.txt
+	2. Ubahlah mode a,w,r menjadi a+,w+,r+
+	
