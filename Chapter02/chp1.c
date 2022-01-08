@@ -3,7 +3,9 @@
 int main()
 {
     
-    printf("Hello");
+    printf("Hello Teman-teman\n");
+    printf("nama saya .......\n");
+    printf("Usia saya:.....\n");
 
     return 0;
 }
