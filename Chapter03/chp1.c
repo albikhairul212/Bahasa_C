@@ -14,7 +14,7 @@ int main()
 
     // menggunakan pernyataan bersyarat
     if(jumlah > 100000){
-        printf("selamat anda orang kaya");
+        printf("selamat anda orang kaya\n");
     }
 printf("Terima Kasih");
 

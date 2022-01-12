@@ -2,12 +2,6 @@
 
 int main()
 {
-    
-    puts("A");
-    puts("1");
-    puts("2");
-    puts("3");
-    
-
+    putchar('A');
     return 0;
 }
