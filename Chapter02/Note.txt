@@ -1,6 +1,10 @@
-chp 2
+			=== PENGENALAN BAHASA C ===
+				MODUL 1
 
-    didalam chapter ini akan membahas apa saja yang diperlukan dalam output dan input dalam bahasa c
+
+ 
+--> Menjelaskan File Header
+--> INPUT & OUTPUT
 
 
 Input:
@@ -20,3 +24,5 @@ Output:
 untuk mengatasi teks spasi
 printf("Nama: ");
 scanf("%[^\n]s", name);
+=======
+

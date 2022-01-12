@@ -1,24 +1,17 @@
-Tipe Data pada Bahasa C
-
-Ada delapan jenis tipe data pada C:
-
-1.Char
-2.Integer
-3.Float
-4.Array
-5.Structure
-6.Pointer
-7.Enum
-8.Void
-
-Tipe Data Dasar pada C
+Tipe Data Dasar pada C:
 
 1.Char:
 2.Integer
 3.Float
 4.Double
 
+Tipe data turunan pada c:
+1.Structure
+2.pointer
+3.Array
+
 percabangan
+
 1.if
 2.if/else
 3.if/else/if
@@ -33,3 +26,9 @@ if( strcmp(password, "kopi") == 0 ){
     printf("Password salah, coba lagi!\n");
 }
 strcmp() untuk membandingkan dua teks (string).
+=======
+1.If conditional
+2.Switch/Case
+3.Percabangan dengan Operator Ternary
+4.Percabangan Bersarang
+
