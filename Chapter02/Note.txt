@@ -6,3 +6,23 @@
 --> Menjelaskan File Header
 --> INPUT & OUTPUT
 
+
+Input:
+1.scanf()
+2.gets()
+3.fgets()
+4.
+5.
+
+Output:
+1.printf()
+2.puts()
+3.
+4.
+5.
+
+untuk mengatasi teks spasi
+printf("Nama: ");
+scanf("%[^\n]s", name);
+=======
+

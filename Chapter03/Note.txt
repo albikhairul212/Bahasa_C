@@ -11,7 +11,24 @@ Tipe data turunan pada c:
 3.Array
 
 percabangan
+
+1.if
+2.if/else
+3.if/else/if
+4.Switch/Case
+5.Percabangan dengan Opertor Ternary
+6.Percabangan Bersarang
+
++
+if( strcmp(password, "kopi") == 0 ){
+    printf("Selamat datang bos!\n");
+} else {
+    printf("Password salah, coba lagi!\n");
+}
+strcmp() untuk membandingkan dua teks (string).
+=======
 1.If conditional
 2.Switch/Case
 3.Percabangan dengan Operator Ternary
 4.Percabangan Bersarang
+
